@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "./img/product/36+12 دااااخل.png",
+    "category": "36+12 داخل",
+    "color": "بنفسجي"
+  },
+  {
+    "id": 2,
+    "img": "./img/product/36+12 داااخل.png",
+    "category": "36+12 داخل",
+    "color": "أزرق"
+  },
+  {
+    "id": 3,
+    "img": "./img/product/36+12 دااخل.png",
+    "category": "36+12 داخل",
+    "color": "برتقالي"
+  },
+  {
+    "id": 4,
+    "img": "./img/product/36+12 داخل.png",
+    "category": "36+12 داخل",
+    "color": "أحمر"
+  },
+  {
+    "id": 5,
+    "img": "./img/product/48 smd.png",
+    "category": "48 smd"
+  },
+  {
+    "id": 6,
+    "img": "./img/product/اسبوت زجاجى.png",
+    "category": "اسبوت زجاجى"
+  },
+  {
+    "id": 7,
+    "img": "./img/product/بلفونيرة خارج.png",
+    "category": "بلفونيرة خارج"
+  },
+  {
+    "id": 8,
+    "img": "./img/product/بلفونيرة داخلى سوسته.png",
+    "category": "بلفونيرة داخلى سوسته"
+  },
+  {
+    "id": 9,
+    "img": "./img/product/بنل داخل.png",
+    "category": "بنل داخل"
+  },
+  {
+    "id": 10,
+    "img": "./img/product/كاندل.png",
+    "category": "كاندل"
+  },
+  {
+    "id": 11,
+    "img": "./img/product/كشاف واجهات.png",
+    "category": "كشاف واجهات"
+  },
+  {
+    "id": 12,
+    "img": "./img/product/لمبات ريدى رونج.png",
+    "category": "لمبات ريدى رونج"
+  },
+  {
+    "id": 13,
+    "img": "./img/product/لمبات.png",
+    "category": "لمبات"
+  },
+  {
+    "id": 14,
+    "img": "./img/product/لمبه كاسه.png",
+    "category": "لمبه كاسه"
+  },
+  {
+    "id": 15,
+    "img": "./img/product/مربع خارج.png",
+    "category": "مربع خارج"
+  },
+  {
+    "id": 15,
+    "img": "./img/product/مربع داخل.png",
+    "category": "مربع داخل"
+  }
+]
