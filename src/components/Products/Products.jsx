@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import products from "../../Products.json";
+import UseImg from "../UseImg/useImg";
 function Products() {
   return (
     <section id="products" className="container || py-[100px]  || scrollEvent">
@@ -29,14 +30,15 @@ function Products() {
               bounce: 0.5,
             }}
             viewport={{ once: true, amount: 0 }}
-            className="md:w-[calc(100%/2-32px/2)] lg:w-[calc(100%/3-32px/3)] w-full || boxShadowEdit || py-5 || px-4 || perentFeatuers"
+            className="md:w-[calc(100%/2-32px/2)]  lg:w-[calc(100%/3-32px/3)] w-full || boxShadowEdit || py-5 || px-4 || perentFeatuers"
           >
-            <div className="w-full || mb-4">
-              <img
+            <div className="w-full || relative || mb-4">
+              {/* <img
                 src={product.img ? product.img : "./img/pro5.png"}
                 className="h-[300px] object-contain object-bottom mx-auto"
                 alt=""
-              />
+              /> */}
+              <UseImg img={product.img}/>
             </div>
             <h2 className="text-[#30b1b1] || font-bold || mb-4 || text-[18px] || text-center">
               {product.category}

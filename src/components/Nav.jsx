@@ -288,7 +288,6 @@ function Nav() {
           </Link>
         </div>
         <div>
-          {console.log(activeLink)}
           <Link
             style={{
               color: activeLink === "footer" ? "#ffc107" : "#fff",
