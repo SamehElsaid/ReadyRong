@@ -1,25 +1,25 @@
 [
   {
     "id": 1,
-    "img": "./img/product/36+12 دااااخل.png",
+    "img": "./img/product/1.png",
     "category": "36+12 داخل",
     "color": "بنفسجي"
   },
   {
     "id": 2,
-    "img": "./img/product/36+12 داااخل.png",
+    "img": "./img/product/2.png",
     "category": "36+12 داخل",
     "color": "أزرق"
   },
   {
     "id": 3,
-    "img": "./img/product/36+12 دااخل.png",
+    "img": "./img/product/3.png",
     "category": "36+12 داخل",
     "color": "برتقالي"
   },
   {
     "id": 4,
-    "img": "./img/product/36+12 داخل.png",
+    "img": "./img/product/4.png",
     "category": "36+12 داخل",
     "color": "أحمر"
   },
@@ -75,7 +75,7 @@
   },
   {
     "id": 15,
-    "img": "./img/product/مربع خارج.png",
+    "img": "./img/product/5.png",
     "category": "مربع خارج"
   },
   {
