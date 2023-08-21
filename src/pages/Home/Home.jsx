@@ -9,6 +9,7 @@ import Feathers from "../../components/AboutUs/Feathers";
 import Header from "../../components/Header";
 import Products from "../../components/Products/Products";
 import { GoDot } from "react-icons/go";
+
 function Home() {
   return (
     <section className="">

@@ -17,6 +17,7 @@
   font-family: "Almarai";
   src: url("./assets/font/Almarai-Light.ttf");
   font-weight: 300;
+  
 }
 :root {
   --bg-color: #fff;
@@ -428,3 +429,4 @@ section {
 .removeBg {
   mix-blend-mode: multiply;
 }
+
