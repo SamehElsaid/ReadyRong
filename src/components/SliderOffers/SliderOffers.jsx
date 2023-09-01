@@ -33,6 +33,16 @@ function SliderOffers() {
       id: 7,
       img: `./img/7.png`,
     },
+
+    {
+      id: 8,
+      img: `./img/8.png`,
+    },
+
+    {
+      id: 9,
+      img: `./img/9.png`,
+    },
   ];
 
   useEffect(() => {

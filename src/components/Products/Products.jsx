@@ -27,12 +27,7 @@ function Products() {
               <h2 className="text-[#30b1b1] || font-bold || mb-4 || text-[18px] || text-center">
                 {product.category}
               </h2>
-              {product.warranty && (
-                <p>
-                  <span className="font-semibold">الضمان: </span>
-                  {product.warranty}
-                </p>
-              )}
+              {product.details && <p>{product.details}</p>}
               {product.operationalLifespan && (
                 <p>
                   <span className="font-semibold">عمر التشغيل: </span>
@@ -46,9 +41,13 @@ function Products() {
                 </p>
               )}
               {product.size && (
-                <p>
+                <p className="flex || gap-2">
                   <span className="font-semibold">المقاس: </span>
-                  {product.size}
+                  <div className="flex-1 || flex || gap-1 || flex-wrap">
+                    {product.size.map((e,i) => (
+                      <p key={i} className="">-({e})</p>
+                    ))}
+                  </div>
                 </p>
               )}
             </>

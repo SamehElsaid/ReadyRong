@@ -38,6 +38,9 @@ function Home() {
                 </h2>
                 <p>
                   <span className="flex || items-center || gap-1">
+                    <GoDot className="text-xs" /> 01208161111
+                  </span>{" "}
+                  <span className="flex || items-center || gap-1">
                     <GoDot className="text-xs" /> 01276665149
                   </span>{" "}
                   <span className="flex || items-center || gap-1">
@@ -78,16 +81,7 @@ function Home() {
           </a>
         </div>
         <div className="py-5 || text-center || text-sm">
-          Created By{" "}
-          <a
-            href="https://wa.me/+201558290662"
-            target="_blank"
-            rel="noreferrer"
-            className="text-[#30b1b1]"
-          >
-            Sameh Elsaid
-          </a>{" "}
-          & Design By{" "}
+          Design By{" "}
           <a
             href="https://wa.me/+201158575849"
             target="_blank"

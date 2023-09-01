@@ -3,25 +3,7 @@
     "id": 1,
     "img": "./img/product/1.png",
     "category": "36+12 داخل",
-    "color": "بنفسجي"
-  },
-  {
-    "id": 2,
-    "img": "./img/product/2.png",
-    "category": "36+12 داخل",
-    "color": "أزرق"
-  },
-  {
-    "id": 3,
-    "img": "./img/product/3.png",
-    "category": "36+12 داخل",
-    "color": "برتقالي"
-  },
-  {
-    "id": 4,
-    "img": "./img/product/4.png",
-    "category": "36+12 داخل",
-    "color": "أحمر"
+    "color": " بنك وازرق ورم و احمر"
   },
   {
     "id": 5,
@@ -31,56 +13,140 @@
   {
     "id": 6,
     "img": "./img/product/اسبوت زجاجى.png",
-    "category": "اسبوت زجاجى"
+    "category": "اسبوت زجاجى6+6",
+    "details": " تلاته تكه"
   },
   {
     "id": 7,
     "img": "./img/product/بلفونيرة خارج.png",
-    "category": "بلفونيرة خارج"
+    "category": " بلفونيرة خارج مدور",
+    "size": ["20w", "30w", "30+30w", "40w", "40+40w", "50w"]
   },
   {
     "id": 8,
     "img": "./img/product/بلفونيرة داخلى سوسته.png",
-    "category": "بلفونيرة داخلى سوسته"
+    "category": "بلفونيرة داخلى سوسته",
+    "size": ["10w", "10+10w", "20w", "20+20w", "30w", "30+30w", "40w", "40+40w"]
   },
   {
     "id": 9,
     "img": "./img/product/بنل داخل.png",
-    "category": "بنل داخل"
+    "category": "بنل داخل",
+    "size": ["22w"]
   },
   {
     "id": 10,
     "img": "./img/product/كاندل.png",
-    "category": "كاندل"
+    "category": "كاندل",
+    "size": ["  ابيض 7w ", "  اصفر 7w "]
   },
   {
     "id": 11,
     "img": "./img/product/كشاف واجهات.png",
-    "category": "كشاف واجهات"
+    "category": "كشافات واجهات"
   },
   {
     "id": 12,
     "img": "./img/product/لمبات ريدى رونج.png",
-    "category": "لمبات ريدى رونج"
+    "category": "لمبات ريدى رونج",
+    "size": ["20w", "30w", "40w", "50w"]
   },
   {
     "id": 13,
     "img": "./img/product/لمبات.png",
-    "category": "لمبات"
+    "category": "لمبات",
+    "size": ["5w", "9w", "12w", "15w", "18w"]
   },
   {
     "id": 14,
     "img": "./img/product/لمبه كاسه.png",
-    "category": "لمبه كاسه"
+    "category": "لمبه كاسه",
+    "size": ["  ابيض 6w ", "  اصفر 6w ", "6+6w"]
   },
   {
     "id": 15,
     "img": "./img/product/5.png",
-    "category": "مربع خارج"
+    "category": "مربع خارج",
+    "size": ["30w", "40w", "50w"]
   },
   {
     "id": 16,
     "img": "./img/product/مربع داخل.png",
-    "category": "مربع داخل"
+    "category": "مربع داخل",
+    "size": [ "20w","30w", "40w"]
+  }, {
+    "id": 17,
+    "img": "./img/product/cob 5 w متحرك.png",
+    "category": "cob 5 w متحرك"
+  }
+  , {
+    "id": 18,
+    "img": "./img/product/2/اسبوت 3+3.png",
+    "category": "اسبوت 3+3"
+  }
+  , {
+    "id": 19,
+    "img": "./img/product/2/اسبوت اكريليك.png",
+    "category": "اسبوت اكريليك"
+  }
+  , {
+    "id": 20,
+    "img": "./img/product/2/بلفونيرة داخل هنا.png",
+    "category": "بلفونيرة داخل هنا"
+  }
+  , {
+    "id": 21,
+    "img": "./img/product/2/تراك ماجنتك مجوز.png",
+    "category": "تراك ماجنتك مجوز"
+  }
+  , {
+    "id": 22,
+    "img": "./img/product/2/تراك ماجنتك مفرد.png",
+    "category": "تراك ماجنتك مفرد"
+  }
+  , {
+    "id": 23,
+    "img": "./img/product/2/تراك مرايا ابيض واسمر.png",
+    "category": "تراك مرايا ابيض واسمر"
+  }
+  , {
+    "id": 24,
+    "img": "./img/product/2/دلايات ماجنتيك بانواعها.png",
+    "category": "دلايات ماجنتيك بانواعها"
+  }
+  , {
+    "id": 25,
+    "img": "./img/product/2/شريط لحام 20 متر.png",
+    "category": "شريط لحام 20 متر"
+  }
+  , {
+    "id": 26,
+    "img": "./img/product/2/كشاف حدائق.png",
+    "category": "كشاف حدائق"
+  }
+  , {
+    "id": 27,
+    "img": "./img/product/2/كشاف ماجنتك ثابت.png",
+    "category": "كشاف ماجنتك ثابت"
+  }
+  , {
+    "id": 28,
+    "img": "./img/product/2/كشاف ماجنتك متحرك عدسات.png",
+    "category": "كشاف ماجنتك متحرك عدسات"
+  }
+  , {
+    "id": 29,
+    "img": "./img/product/2/كشاف ماجنتك متحرك.png",
+    "category": "كشاف ماجنتك متحرك"
+  }
+  , {
+    "id": 30,
+    "img": "./img/product/2/لمبه ليد تيوب 30 وات.png",
+    "category": "لمبه ليد تيوب 30 وات"
+  }
+  , {
+    "id": 31,
+    "img": "./img/product/2/مسطرة ماجنتك.png",
+    "category": "مسطرة ماجنتك"
   }
 ]
