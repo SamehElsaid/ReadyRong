@@ -41,14 +41,14 @@ function Products() {
                 </p>
               )}
               {product.size && (
-                <p className="flex || gap-2">
+                <div className="flex || gap-2">
                   <span className="font-semibold">المقاس: </span>
                   <div className="flex-1 || flex || gap-1 || flex-wrap">
                     {product.size.map((e,i) => (
                       <p key={i} className="">-({e})</p>
                     ))}
                   </div>
-                </p>
+                </div>
               )}
             </>
           </Bounce>

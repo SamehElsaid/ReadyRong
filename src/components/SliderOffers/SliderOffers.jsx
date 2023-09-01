@@ -93,7 +93,7 @@ function SliderOffers() {
           ref={slide}
           className="h-[135px] md:h-[400px] || lg:h-[427px] || relative"
         >
-          <div className="absolute || glassDivImg || px-2 || py-2 || right-[10px] || z-10 || top-1/2 || -translate-y-1/2 || flex || flex-col || gap-2 || items-center">
+          <div className="absolute  || glassDivImg || px-2 || py-1 md:py-2 || md:right-[10px] || left-1/2 || md:left-auto || z-10 ||  bottom-0 md:bottom-auto md:top-1/2 -translate-x-1/2 || md:-translate-x-0 || md:-translate-y-1/2 || flex || md:flex-col || gap-2 || items-center">
             {repo.map((slide, i) => (
               <div
                 onClick={() => {
@@ -101,7 +101,7 @@ function SliderOffers() {
                 }}
                 className={`${
                   i === length ? "glassDivActive || scale-150" : "glassDiv"
-                } transition-all || duration-700 || rounded-full || cursor-pointer  || w-[10px] || h-[10px]`}
+                } transition-all || duration-700  || rounded-full || cursor-pointer  || w-[10px] || h-[10px]`}
                 key={slide.id}
               ></div>
             ))}
